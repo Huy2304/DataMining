@@ -1,0 +1,1598 @@
+Year,LanguageTag,TargetTag,Quantity,ChuyenNganh
+2020,c#,asp.net-core,7657,Web Backend
+2020,c#,asp.net,5610,Web Backend
+2020,c#,unity-game-engine,4932,Game Development
+2020,c#,asp.net-mvc,3944,Web Backend
+2020,c#,entity-framework,2631,Web Backend
+2020,c#,entity-framework-core,2418,Web Backend
+2020,c#,sql-server,1946,Database
+2020,c#,azure,1515,DevOps & Cloud
+2020,c#,sql,1407,Database
+2020,c#,asp.net-web-api,1014,Web Backend
+2020,c#,async-await,930,Data Science & AI
+2020,c#,android,829,Mobile App
+2020,c#,html,826,Web Frontend
+2020,c#,asp.net-core-mvc,763,Web Backend
+2020,c#,asp.net-core-webapi,743,Web Backend
+2020,c#,asp.net-core-3.1,742,Web Backend
+2020,c#,mysql,616,Database
+2020,c#,xamarin.android,609,Mobile App
+2020,c#,jquery,590,Web Frontend
+2020,c#,azure-functions,519,DevOps & Cloud
+2020,c#,mongodb,486,Database
+2020,c#,ajax,414,Web Frontend
+2020,c#,authentication,390,Web Backend
+2020,c#,entity-framework-6,383,Web Backend
+2020,c#,sqlite,356,Database
+2020,c#,asp.net-identity,342,Web Backend
+2020,c#,azure-active-directory,340,DevOps & Cloud
+2020,c#,angular,340,Web Frontend
+2020,c#,xamarin.ios,302,Mobile App
+2020,c#,docker,293,DevOps & Cloud
+2020,c++,opencv,950,Data Science & AI
+2020,c++,opengl,859,Game Development
+2020,c++,android,324,Mobile App
+2020,c++,xcode,232,Mobile App
+2020,c++,random,199,Web Frontend
+2020,c++,gdb,196,Database
+2020,c++,unreal-engine4,194,Game Development
+2020,go,mongodb,261,Database
+2020,go,docker,218,DevOps & Cloud
+2020,go,postgresql,192,Database
+2020,go,kubernetes,144,DevOps & Cloud
+2020,go,mysql,105,Database
+2020,go,sql,74,Database
+2020,go,html,54,Web Frontend
+2020,go,docker-compose,50,DevOps & Cloud
+2020,go,aws-lambda,46,DevOps & Cloud
+2020,go,redis,40,Database
+2020,go,firebase,38,Database
+2020,go,jwt,31,Web Backend
+2020,go,aws-sdk-go,29,DevOps & Cloud
+2020,go,dockerfile,27,DevOps & Cloud
+2020,go,amazon-dynamodb,27,Database
+2020,go,sqlx,27,Database
+2020,go,reactjs,26,Web Frontend
+2020,go,azure,26,DevOps & Cloud
+2020,java,android,18522,Mobile App
+2020,java,spring-boot,12502,Web Backend
+2020,java,spring,11412,Web Backend
+2020,java,android-studio,3759,Mobile App
+2020,java,hibernate,3600,Web Backend
+2020,java,kotlin,2586,Mobile App
+2020,java,firebase,1792,Database
+2020,java,mysql,1718,Database
+2020,java,spring-data-jpa,1673,Web Backend
+2020,java,spring-mvc,1448,Web Backend
+2020,java,sql,1217,Database
+2020,java,spring-security,1048,Web Backend
+2020,java,jdbc,1047,Database
+2020,java,android-recyclerview,1028,Mobile App
+2020,java,firebase-realtime-database,893,Database
+2020,java,mongodb,864,Database
+2020,java,postgresql,856,Database
+2020,java,html,832,Web Frontend
+2020,java,docker,774,DevOps & Cloud
+2020,java,android-fragments,685,Mobile App
+2020,java,oracle-database,617,Database
+2020,java,spring-data,530,Web Backend
+2020,java,android-layout,505,Mobile App
+2020,java,spring-webflux,487,Web Backend
+2020,java,sqlite,460,Database
+2020,javascript,html,38021,Web Frontend
+2020,javascript,reactjs,37832,Web Frontend
+2020,javascript,node.js,22531,Web Backend
+2020,javascript,jquery,21737,Web Frontend
+2020,javascript,css,17257,Web Frontend
+2020,javascript,typescript,10123,Web Frontend
+2020,javascript,vue.js,9188,Web Frontend
+2020,javascript,angular,8004,Web Frontend
+2020,javascript,react-native,6469,Mobile App
+2020,javascript,php,6299,Web Backend
+2020,javascript,ajax,4664,Web Frontend
+2020,javascript,express,4585,Web Backend
+2020,javascript,firebase,4161,Database
+2020,javascript,react-hooks,2946,Web Frontend
+2020,javascript,mongodb,2768,Database
+2020,javascript,dom,2389,Web Frontend
+2020,javascript,axios,2159,Mobile App
+2020,javascript,webpack,2047,Web Frontend
+2020,javascript,vuejs2,1813,Web Frontend
+2020,javascript,async-await,1787,Data Science & AI
+2020,javascript,laravel,1602,Web Backend
+2020,javascript,react-redux,1587,Web Frontend
+2020,javascript,django,1527,Web Backend
+2020,javascript,bootstrap-4,1457,Web Frontend
+2020,javascript,angularjs,1318,Web Frontend
+2020,javascript,react-router,1182,Web Frontend
+2020,javascript,mysql,1175,Database
+2020,javascript,next.js,1049,Web Frontend
+2020,javascript,android,936,Mobile App
+2020,javascript,vue-component,919,Web Frontend
+2020,javascript,dom-events,861,Web Frontend
+2020,javascript,firebase-realtime-database,858,Database
+2020,javascript,asp.net,833,Web Backend
+2020,javascript,asp.net-mvc,791,Web Backend
+2020,javascript,flask,752,Web Backend
+2020,javascript,twitter-bootstrap,741,Web Frontend
+2020,javascript,vuex,730,Web Frontend
+2020,javascript,vuetify.js,729,Web Frontend
+2020,javascript,html5-canvas,685,Web Frontend
+2020,javascript,firebase-authentication,682,Web Backend
+2020,php,laravel,14039,Web Backend
+2020,php,mysql,7320,Database
+2020,php,html,6293,Web Frontend
+2020,php,jquery,3164,Web Frontend
+2020,php,ajax,2749,Web Frontend
+2020,php,sql,2232,Database
+2020,php,symfony,1829,Web Backend
+2020,php,css,1181,Web Frontend
+2020,php,laravel-5,964,Web Backend
+2020,php,mysqli,899,Database
+2020,php,laravel-7,702,Web Backend
+2020,php,email,556,Data Science & AI
+2020,php,docker,544,DevOps & Cloud
+2020,php,composer-php,526,Web Backend
+2020,php,nginx,495,DevOps & Cloud
+2020,php,authentication,485,Web Backend
+2020,php,laravel-6,455,Web Backend
+2020,php,vue.js,448,Web Frontend
+2020,php,laravel-blade,407,Web Backend
+2020,php,laravel-8,354,Web Backend
+2020,php,phpmailer,330,Data Science & AI
+2020,php,phpunit,325,Web Backend
+2020,php,symfony4,320,Web Backend
+2020,php,sql-server,314,Database
+2020,php,postgresql,286,Database
+2020,php,bootstrap-4,266,Web Frontend
+2020,php,cakephp,257,Web Backend
+2020,php,reactjs,251,Web Frontend
+2020,php,android,250,Mobile App
+2020,php,phpmyadmin,247,Web Backend
+2020,php,mongodb,215,Database
+2020,php,php-curl,200,Web Backend
+2020,php,node.js,195,Web Backend
+2020,php,php-7,187,Web Backend
+2020,python,pandas,42608,Data Science & AI
+2020,python,django,17707,Web Backend
+2020,python,dataframe,15817,Data Science & AI
+2020,python,numpy,13578,Data Science & AI
+2020,python,matplotlib,9114,Data Science & AI
+2020,python,tensorflow,9004,Data Science & AI
+2020,python,flask,6618,Web Backend
+2020,python,keras,6238,Data Science & AI
+2020,python,opencv,4613,Data Science & AI
+2020,python,html,4221,Web Frontend
+2020,python,scikit-learn,3315,Data Science & AI
+2020,python,pygame,2907,Game Development
+2020,python,jupyter-notebook,2800,Data Science & AI
+2020,python,deep-learning,2559,Data Science & AI
+2020,python,django-models,2436,Web Backend
+2020,python,pytorch,2434,Data Science & AI
+2020,python,sqlalchemy,1888,Database
+2020,python,django-rest-framework,1876,Web Backend
+2020,python,mysql,1802,Database
+2020,python,sql,1739,Database
+2020,python,seaborn,1714,Data Science & AI
+2020,python,pandas-groupby,1616,Data Science & AI
+2020,python,docker,1611,DevOps & Cloud
+2020,python,django-views,1591,Web Backend
+2020,python,postgresql,1528,Database
+2020,python,nlp,1516,Data Science & AI
+2020,python,plotly,1476,Data Science & AI
+2020,python,sqlite,1466,Database
+2020,python,plot,1410,Data Science & AI
+2020,python,neural-network,1346,Data Science & AI
+2020,python,conv-neural-network,1126,Data Science & AI
+2020,python,tensorflow2.0,1069,Data Science & AI
+2020,rust,traits,257,Data Science & AI
+2020,rust,async-await,112,Data Science & AI
+2020,rust,trait-objects,30,Data Science & AI
+2020,rust,postgresql,27,Database
+2020,rust,opengl,19,Game Development
+2020,rust,mysql,16,Database
+2020,rust,random,14,Web Frontend
+2020,rust,mongodb,14,Database
+2020,rust,docker,14,DevOps & Cloud
+2020,swift,ios,17440,Mobile App
+2020,swift,xcode,5773,Mobile App
+2020,swift,swiftui,5355,Mobile App
+2020,swift,firebase,1502,Database
+2020,swift,swift5,880,Mobile App
+2020,swift,firebase-realtime-database,354,Database
+2020,swift,ios14,328,Mobile App
+2020,swift,ios13,296,Mobile App
+2020,swift,rx-swift,217,Mobile App
+2020,swift,firebase-authentication,207,Web Backend
+2020,swift,xcode12,187,Mobile App
+2020,swift,swiftui-list,181,Mobile App
+2020,swift,xcode11,178,Mobile App
+2020,swift,constraints,171,Data Science & AI
+2020,swift,swift4,165,Mobile App
+2020,swift,swift-package-manager,152,Mobile App
+2020,swift,react-native,128,Mobile App
+2020,swift,swiftui-navigationlink,128,Mobile App
+2020,swift,firebase-storage,125,Database
+2020,swift,flutter,120,Mobile App
+2020,swift,swift3,106,Mobile App
+2020,typescript,angular,10840,Web Frontend
+2020,typescript,reactjs,5593,Web Frontend
+2020,typescript,node.js,2472,Web Backend
+2020,typescript,html,1483,Web Frontend
+2020,typescript,typescript-typings,782,Web Frontend
+2020,typescript,vue.js,747,Web Frontend
+2020,typescript,react-native,722,Mobile App
+2020,typescript,typescript-generics,672,Web Frontend
+2020,typescript,angular-material,667,Web Frontend
+2020,typescript,angular8,591,Web Frontend
+2020,typescript,nestjs,585,Web Backend
+2020,typescript,firebase,570,Database
+2020,typescript,css,568,Web Frontend
+2020,typescript,webpack,548,Web Frontend
+2020,typescript,express,422,Web Backend
+2020,typescript,react-hooks,418,Web Frontend
+2020,typescript,angular9,328,Web Frontend
+2020,typescript,next.js,247,Web Frontend
+2020,typescript,react-redux,235,Web Frontend
+2020,typescript,mongodb,201,Database
+2020,typescript,async-await,192,Data Science & AI
+2020,typescript,angular-reactive-forms,182,Web Frontend
+2020,typescript,angular7,170,Web Frontend
+2020,typescript,angularjs,160,Web Frontend
+2020,typescript,axios,155,Mobile App
+2020,typescript,react-router,143,Web Frontend
+2020,typescript,create-react-app,138,Web Frontend
+2020,typescript,vuejs2,131,Web Frontend
+2020,typescript,angular10,122,Web Frontend
+2020,typescript,jquery,119,Web Frontend
+2020,typescript,postgresql,103,Database
+2020,typescript,angular6,101,Web Frontend
+2020,typescript,node-modules,97,Web Backend
+2020,typescript,react-typescript,97,Web Frontend
+2020,typescript,angular-routing,94,Web Frontend
+2020,typescript,vuejs3,93,Web Frontend
+2020,typescript,vuex,89,Web Frontend
+2020,typescript,bootstrap-4,84,Web Frontend
+2020,typescript,angular-components,82,Web Frontend
+2021,c#,asp.net-core,6007,Web Backend
+2021,c#,asp.net,4308,Web Backend
+2021,c#,unity-game-engine,4159,Game Development
+2021,c#,asp.net-mvc,2699,Web Backend
+2021,c#,entity-framework-core,2358,Web Backend
+2021,c#,entity-framework,2080,Web Backend
+2021,c#,sql-server,1349,Database
+2021,c#,azure,1212,DevOps & Cloud
+2021,c#,sql,993,Database
+2021,c#,asp.net-web-api,854,Web Backend
+2021,c#,asp.net-core-mvc,781,Web Backend
+2021,c#,async-await,697,Data Science & AI
+2021,c#,asp.net-core-webapi,602,Web Backend
+2021,c#,html,601,Web Frontend
+2021,c#,android,583,Mobile App
+2021,c#,azure-functions,536,DevOps & Cloud
+2021,c#,mysql,444,Database
+2021,c#,mongodb,405,Database
+2021,c#,asp.net-core-3.1,366,Web Backend
+2021,c#,xamarin.android,357,Mobile App
+2021,c#,jquery,353,Web Frontend
+2021,c#,ajax,288,Web Frontend
+2021,c#,docker,274,DevOps & Cloud
+2021,c#,asp.net-identity,271,Web Backend
+2021,c#,authentication,271,Web Backend
+2021,c#,sqlite,267,Database
+2021,c#,angular,251,Web Frontend
+2021,c#,asp.net-core-5.0,241,Web Backend
+2021,c#,postgresql,237,Database
+2021,c#,entity-framework-6,235,Web Backend
+2021,c++,opengl,613,Game Development
+2021,c++,opencv,576,Data Science & AI
+2021,c++,android,227,Mobile App
+2021,c++,unreal-engine4,168,Game Development
+2021,c++,xcode,157,Mobile App
+2021,go,docker,222,DevOps & Cloud
+2021,go,mongodb,211,Database
+2021,go,postgresql,179,Database
+2021,go,kubernetes,162,DevOps & Cloud
+2021,go,mysql,138,Database
+2021,go,sql,79,Database
+2021,go,html,63,Web Frontend
+2021,go,aws-lambda,48,DevOps & Cloud
+2021,go,docker-compose,45,DevOps & Cloud
+2021,go,redis,42,Database
+2021,go,dockerfile,38,DevOps & Cloud
+2021,go,aws-sdk-go,38,DevOps & Cloud
+2021,go,terraform,37,DevOps & Cloud
+2021,go,node.js,36,Web Backend
+2021,go,azure,35,DevOps & Cloud
+2021,go,sqlx,31,Database
+2021,go,reactjs,29,Web Frontend
+2021,go,amazon-dynamodb,28,Database
+2021,go,sqlite,27,Database
+2021,go,jwt,27,Web Backend
+2021,java,android,12291,Mobile App
+2021,java,spring-boot,10752,Web Backend
+2021,java,spring,8871,Web Backend
+2021,java,android-studio,2864,Mobile App
+2021,java,hibernate,2695,Web Backend
+2021,java,kotlin,2124,Mobile App
+2021,java,spring-data-jpa,1378,Web Backend
+2021,java,firebase,1262,Database
+2021,java,mysql,1159,Database
+2021,java,spring-mvc,1023,Web Backend
+2021,java,sql,901,Database
+2021,java,jdbc,850,Database
+2021,java,spring-security,723,Web Backend
+2021,java,postgresql,712,Database
+2021,java,android-recyclerview,672,Mobile App
+2021,java,firebase-realtime-database,668,Database
+2021,java,docker,663,DevOps & Cloud
+2021,java,mongodb,642,Database
+2021,java,html,535,Web Frontend
+2021,java,spring-webflux,498,Web Backend
+2021,java,oracle-database,463,Database
+2021,java,android-fragments,444,Mobile App
+2021,java,spring-data,358,Web Backend
+2021,java,flutter,355,Mobile App
+2021,java,sqlite,344,Database
+2021,javascript,reactjs,35719,Web Frontend
+2021,javascript,html,31664,Web Frontend
+2021,javascript,node.js,19752,Web Backend
+2021,javascript,css,15335,Web Frontend
+2021,javascript,jquery,14791,Web Frontend
+2021,javascript,typescript,9506,Web Frontend
+2021,javascript,vue.js,7675,Web Frontend
+2021,javascript,react-native,5495,Mobile App
+2021,javascript,angular,5425,Web Frontend
+2021,javascript,php,4544,Web Backend
+2021,javascript,express,3978,Web Backend
+2021,javascript,firebase,3222,Database
+2021,javascript,react-hooks,3190,Web Frontend
+2021,javascript,ajax,3113,Web Frontend
+2021,javascript,mongodb,2616,Database
+2021,javascript,next.js,2516,Web Frontend
+2021,javascript,axios,1903,Mobile App
+2021,javascript,dom,1798,Web Frontend
+2021,javascript,webpack,1638,Web Frontend
+2021,javascript,async-await,1515,Data Science & AI
+2021,javascript,vuejs2,1400,Web Frontend
+2021,javascript,django,1369,Web Backend
+2021,javascript,laravel,1255,Web Backend
+2021,javascript,react-redux,1204,Web Frontend
+2021,javascript,react-router,960,Web Frontend
+2021,javascript,mysql,930,Database
+2021,javascript,vuejs3,911,Web Frontend
+2021,javascript,bootstrap-4,879,Web Frontend
+2021,javascript,dom-events,763,Web Frontend
+2021,javascript,android,723,Mobile App
+2021,javascript,angularjs,689,Web Frontend
+2021,javascript,vue-component,591,Web Frontend
+2021,javascript,html5-canvas,591,Web Frontend
+2021,javascript,firebase-realtime-database,587,Database
+2021,javascript,firebase-authentication,561,Web Backend
+2021,javascript,flask,559,Web Backend
+2021,javascript,react-router-dom,547,Web Frontend
+2021,php,laravel,10894,Web Backend
+2021,php,mysql,4717,Database
+2021,php,html,4454,Web Frontend
+2021,php,jquery,2089,Web Frontend
+2021,php,ajax,1811,Web Frontend
+2021,php,laravel-8,1602,Web Backend
+2021,php,symfony,1512,Web Backend
+2021,php,sql,1423,Database
+2021,php,css,902,Web Frontend
+2021,php,docker,573,DevOps & Cloud
+2021,php,mysqli,560,Database
+2021,php,email,401,Data Science & AI
+2021,php,laravel-blade,388,Web Backend
+2021,php,nginx,378,DevOps & Cloud
+2021,php,composer-php,369,Web Backend
+2021,php,laravel-5,366,Web Backend
+2021,php,vue.js,319,Web Frontend
+2021,php,authentication,312,Web Backend
+2021,php,phpunit,285,Web Backend
+2021,php,phpmailer,266,Data Science & AI
+2021,php,laravel-livewire,261,Web Backend
+2021,php,laravel-7,222,Web Backend
+2021,php,sql-server,217,Database
+2021,php,postgresql,197,Database
+2021,php,symfony5,196,Web Backend
+2021,php,node.js,185,Web Backend
+2021,php,php-8,179,Web Backend
+2021,php,reactjs,173,Web Frontend
+2021,php,phpmyadmin,166,Web Backend
+2021,php,cakephp,165,Web Backend
+2021,php,docker-compose,164,DevOps & Cloud
+2021,php,mongodb,155,Database
+2021,php,android,150,Mobile App
+2021,php,phpstorm,147,Web Backend
+2021,php,laravel-5.8,146,Web Backend
+2021,python,pandas,39593,Data Science & AI
+2021,python,dataframe,17427,Data Science & AI
+2021,python,django,14223,Web Backend
+2021,python,numpy,11885,Data Science & AI
+2021,python,matplotlib,6958,Data Science & AI
+2021,python,tensorflow,6587,Data Science & AI
+2021,python,flask,4788,Web Backend
+2021,python,keras,4079,Data Science & AI
+2021,python,opencv,3841,Data Science & AI
+2021,python,html,3517,Web Frontend
+2021,python,pytorch,2870,Data Science & AI
+2021,python,scikit-learn,2534,Data Science & AI
+2021,python,jupyter-notebook,2408,Data Science & AI
+2021,python,django-models,2133,Web Backend
+2021,python,pygame,2013,Game Development
+2021,python,deep-learning,1979,Data Science & AI
+2021,python,django-rest-framework,1805,Web Backend
+2021,python,sqlalchemy,1770,Database
+2021,python,plotly,1647,Data Science & AI
+2021,python,docker,1552,DevOps & Cloud
+2021,python,sql,1542,Database
+2021,python,postgresql,1507,Database
+2021,python,seaborn,1503,Data Science & AI
+2021,python,mysql,1472,Database
+2021,python,nlp,1405,Data Science & AI
+2021,python,django-views,1387,Web Backend
+2021,python,sqlite,1313,Database
+2021,python,plot,1276,Data Science & AI
+2021,python,pandas-groupby,1176,Data Science & AI
+2021,python,neural-network,946,Data Science & AI
+2021,python,fastapi,943,Web Backend
+2021,python,plotly-dash,892,Data Science & AI
+2021,python,random,842,Web Frontend
+2021,rust,traits,255,Data Science & AI
+2021,rust,async-await,72,Data Science & AI
+2021,rust,trait-objects,43,Data Science & AI
+2021,rust,postgresql,37,Database
+2021,rust,docker,32,DevOps & Cloud
+2021,rust,rust-sqlx,32,Database
+2021,rust,blockchain,30,Data Science & AI
+2021,rust,mongodb,23,Database
+2021,rust,random,16,Web Frontend
+2021,rust,mysql,16,Database
+2021,swift,ios,11067,Mobile App
+2021,swift,swiftui,4743,Mobile App
+2021,swift,xcode,3384,Mobile App
+2021,swift,firebase,916,Database
+2021,swift,swift5,432,Mobile App
+2021,swift,firebase-realtime-database,217,Database
+2021,swift,swift-package-manager,192,Mobile App
+2021,swift,rx-swift,158,Mobile App
+2021,swift,ios15,156,Mobile App
+2021,swift,flutter,139,Mobile App
+2021,swift,firebase-authentication,137,Web Backend
+2021,swift,swiftui-list,136,Mobile App
+2021,swift,ios14,128,Mobile App
+2021,swift,swiftui-navigationlink,114,Mobile App
+2021,swift,xcode12,109,Mobile App
+2021,swift,react-native,104,Mobile App
+2021,swift,swiftui-navigationview,102,Mobile App
+2021,swift,xcode13,92,Mobile App
+2021,swift,swift-protocols,91,Mobile App
+2021,swift,firebase-cloud-messaging,78,Database
+2021,swift,async-await,77,Data Science & AI
+2021,swift,constraints,66,Data Science & AI
+2021,typescript,angular,8271,Web Frontend
+2021,typescript,reactjs,6564,Web Frontend
+2021,typescript,node.js,2594,Web Backend
+2021,typescript,html,1369,Web Frontend
+2021,typescript,typescript-generics,1052,Web Frontend
+2021,typescript,vue.js,854,Web Frontend
+2021,typescript,react-native,751,Mobile App
+2021,typescript,nestjs,719,Web Backend
+2021,typescript,typescript-typings,698,Web Frontend
+2021,typescript,next.js,654,Web Frontend
+2021,typescript,react-hooks,537,Web Frontend
+2021,typescript,css,501,Web Frontend
+2021,typescript,express,465,Web Backend
+2021,typescript,webpack,461,Web Frontend
+2021,typescript,angular-material,459,Web Frontend
+2021,typescript,firebase,407,Database
+2021,typescript,react-typescript,310,Web Frontend
+2021,typescript,vuejs3,303,Web Frontend
+2021,typescript,mongodb,301,Database
+2021,typescript,react-redux,218,Web Frontend
+2021,typescript,axios,218,Mobile App
+2021,typescript,async-await,161,Data Science & AI
+2021,typescript,angular-reactive-forms,159,Web Frontend
+2021,typescript,postgresql,158,Database
+2021,typescript,angular11,138,Web Frontend
+2021,typescript,aws-cdk,127,DevOps & Cloud
+2021,typescript,angular8,113,Web Frontend
+2021,typescript,angularjs,112,Web Frontend
+2021,typescript,react-router,112,Web Frontend
+2021,typescript,angular12,107,Web Frontend
+2021,typescript,create-react-app,98,Web Frontend
+2021,typescript,vuejs2,96,Web Frontend
+2021,typescript,svelte,88,Web Frontend
+2021,typescript,react-testing-library,86,Web Frontend
+2021,typescript,mysql,85,Database
+2021,typescript,react-hook-form,82,Web Frontend
+2022,c#,unity-game-engine,5100,Game Development
+2022,c#,asp.net-core,4739,Web Backend
+2022,c#,asp.net,3837,Web Backend
+2022,c#,asp.net-mvc,2208,Web Backend
+2022,c#,entity-framework-core,2102,Web Backend
+2022,c#,entity-framework,1818,Web Backend
+2022,c#,sql-server,1122,Database
+2022,c#,azure,1079,DevOps & Cloud
+2022,c#,asp.net-web-api,872,Web Backend
+2022,c#,sql,821,Database
+2022,c#,asp.net-core-webapi,696,Web Backend
+2022,c#,asp.net-core-mvc,679,Web Backend
+2022,c#,async-await,618,Data Science & AI
+2022,c#,android,544,Mobile App
+2022,c#,azure-functions,538,DevOps & Cloud
+2022,c#,html,528,Web Frontend
+2022,c#,mongodb,369,Database
+2022,c#,asp.net-core-6.0,350,Web Backend
+2022,c#,mysql,314,Database
+2022,c#,jquery,309,Web Frontend
+2022,c#,xamarin.android,302,Mobile App
+2022,c#,docker,279,DevOps & Cloud
+2022,c#,authentication,265,Web Backend
+2022,c#,postgresql,243,Database
+2022,c#,asp.net-identity,230,Web Backend
+2022,c#,angular,223,Web Frontend
+2022,c#,sqlite,221,Database
+2022,c++,opencv,553,Data Science & AI
+2022,c++,opengl,502,Game Development
+2022,c++,android,186,Mobile App
+2022,c++,gdb,142,Database
+2022,go,docker,283,DevOps & Cloud
+2022,go,postgresql,243,Database
+2022,go,mongodb,222,Database
+2022,go,kubernetes,188,DevOps & Cloud
+2022,go,mysql,119,Database
+2022,go,sql,94,Database
+2022,go,docker-compose,71,DevOps & Cloud
+2022,go,aws-lambda,67,DevOps & Cloud
+2022,go,html,57,Web Frontend
+2022,go,redis,47,Database
+2022,go,dockerfile,46,DevOps & Cloud
+2022,go,aws-sdk-go,36,DevOps & Cloud
+2022,go,authentication,35,Web Backend
+2022,go,azure,34,DevOps & Cloud
+2022,go,jwt,33,Web Backend
+2022,go,reactjs,30,Web Frontend
+2022,go,node.js,29,Web Backend
+2022,go,amazon-dynamodb,28,Database
+2022,java,spring-boot,10154,Web Backend
+2022,java,android,8230,Mobile App
+2022,java,spring,7769,Web Backend
+2022,java,hibernate,2169,Web Backend
+2022,java,android-studio,1960,Mobile App
+2022,java,kotlin,1888,Mobile App
+2022,java,spring-data-jpa,1302,Web Backend
+2022,java,mysql,936,Database
+2022,java,firebase,877,Database
+2022,java,spring-mvc,855,Web Backend
+2022,java,spring-security,722,Web Backend
+2022,java,sql,649,Database
+2022,java,postgresql,644,Database
+2022,java,docker,637,DevOps & Cloud
+2022,java,jdbc,608,Database
+2022,java,mongodb,500,Database
+2022,java,firebase-realtime-database,497,Database
+2022,java,spring-webflux,460,Web Backend
+2022,java,android-recyclerview,453,Mobile App
+2022,java,html,376,Web Frontend
+2022,java,spring-data,326,Web Backend
+2022,java,oracle-database,293,Database
+2022,java,azure,249,DevOps & Cloud
+2022,java,spring-kafka,245,Web Backend
+2022,javascript,reactjs,33903,Web Frontend
+2022,javascript,html,25675,Web Frontend
+2022,javascript,node.js,15846,Web Backend
+2022,javascript,css,12983,Web Frontend
+2022,javascript,typescript,9722,Web Frontend
+2022,javascript,jquery,9513,Web Frontend
+2022,javascript,vue.js,5485,Web Frontend
+2022,javascript,react-native,4550,Mobile App
+2022,javascript,angular,4096,Web Frontend
+2022,javascript,next.js,3427,Web Frontend
+2022,javascript,express,3378,Web Backend
+2022,javascript,react-hooks,3210,Web Frontend
+2022,javascript,php,3209,Web Backend
+2022,javascript,firebase,2900,Database
+2022,javascript,mongodb,2407,Database
+2022,javascript,ajax,1966,Web Frontend
+2022,javascript,axios,1760,Mobile App
+2022,javascript,dom,1553,Web Frontend
+2022,javascript,vuejs3,1498,Web Frontend
+2022,javascript,async-await,1237,Data Science & AI
+2022,javascript,webpack,1153,Web Frontend
+2022,javascript,react-router,990,Web Frontend
+2022,javascript,django,989,Web Backend
+2022,javascript,laravel,928,Web Backend
+2022,javascript,vuejs2,866,Web Frontend
+2022,javascript,react-router-dom,857,Web Frontend
+2022,javascript,react-redux,731,Web Frontend
+2022,javascript,mysql,724,Database
+2022,javascript,android,619,Mobile App
+2022,javascript,svelte,549,Web Frontend
+2022,javascript,firebase-authentication,525,Web Backend
+2022,javascript,html5-canvas,525,Web Frontend
+2022,javascript,firebase-realtime-database,495,Database
+2022,javascript,tailwind-css,490,Data Science & AI
+2022,javascript,nestjs,481,Web Backend
+2022,javascript,bootstrap-5,477,Web Frontend
+2022,javascript,vite,436,Web Frontend
+2022,php,laravel,8403,Web Backend
+2022,php,mysql,3470,Database
+2022,php,html,3092,Web Frontend
+2022,php,jquery,1302,Web Frontend
+2022,php,symfony,1255,Web Backend
+2022,php,ajax,1193,Web Frontend
+2022,php,laravel-8,1133,Web Backend
+2022,php,sql,1001,Database
+2022,php,css,669,Web Frontend
+2022,php,laravel-9,538,Web Backend
+2022,php,docker,501,DevOps & Cloud
+2022,php,nginx,330,DevOps & Cloud
+2022,php,composer-php,322,Web Backend
+2022,php,mysqli,312,Database
+2022,php,laravel-blade,288,Web Backend
+2022,php,email,274,Data Science & AI
+2022,php,authentication,254,Web Backend
+2022,php,vue.js,201,Web Frontend
+2022,php,phpmailer,198,Data Science & AI
+2022,php,phpunit,196,Web Backend
+2022,php,reactjs,174,Web Frontend
+2022,php,laravel-livewire,171,Web Backend
+2022,php,laravel-5,169,Web Backend
+2022,php,phpmyadmin,145,Web Backend
+2022,php,sql-server,142,Database
+2022,php,docker-compose,142,DevOps & Cloud
+2022,php,postgresql,141,Database
+2022,php,cakephp,138,Web Backend
+2022,php,php-8.1,130,Web Backend
+2022,php,php-8,123,Web Backend
+2022,php,node.js,123,Web Backend
+2022,php,mongodb,119,Database
+2022,python,pandas,37162,Data Science & AI
+2022,python,dataframe,17837,Data Science & AI
+2022,python,django,11780,Web Backend
+2022,python,numpy,10035,Data Science & AI
+2022,python,matplotlib,5936,Data Science & AI
+2022,python,tensorflow,4907,Data Science & AI
+2022,python,flask,3285,Web Backend
+2022,python,opencv,3103,Data Science & AI
+2022,python,html,2923,Web Frontend
+2022,python,keras,2800,Data Science & AI
+2022,python,pytorch,2567,Data Science & AI
+2022,python,jupyter-notebook,2293,Data Science & AI
+2022,python,django-models,2083,Web Backend
+2022,python,scikit-learn,1923,Data Science & AI
+2022,python,sqlalchemy,1754,Database
+2022,python,plotly,1669,Data Science & AI
+2022,python,deep-learning,1656,Data Science & AI
+2022,python,django-rest-framework,1636,Web Backend
+2022,python,docker,1550,DevOps & Cloud
+2022,python,pygame,1475,Game Development
+2022,python,fastapi,1463,Web Backend
+2022,python,sql,1456,Database
+2022,python,django-views,1389,Web Backend
+2022,python,postgresql,1264,Database
+2022,python,nlp,1141,Data Science & AI
+2022,python,mysql,1137,Database
+2022,python,plot,1123,Data Science & AI
+2022,python,seaborn,1051,Data Science & AI
+2022,python,sqlite,936,Database
+2022,python,azure,827,DevOps & Cloud
+2022,python,random,745,Web Frontend
+2022,python,pandas-groupby,738,Data Science & AI
+2022,rust,traits,247,Data Science & AI
+2022,rust,async-await,77,Data Science & AI
+2022,rust,docker,59,DevOps & Cloud
+2022,rust,postgresql,57,Database
+2022,rust,rust-sqlx,52,Database
+2022,rust,blockchain,38,Data Science & AI
+2022,rust,mongodb,36,Database
+2022,rust,trait-objects,27,Data Science & AI
+2022,swift,ios,7979,Mobile App
+2022,swift,swiftui,4728,Mobile App
+2022,swift,xcode,2652,Mobile App
+2022,swift,firebase,599,Database
+2022,swift,swift5,205,Mobile App
+2022,swift,swift-package-manager,205,Mobile App
+2022,swift,async-await,195,Data Science & AI
+2022,swift,flutter,159,Mobile App
+2022,swift,ios16,146,Mobile App
+2022,swift,react-native,108,Mobile App
+2022,swift,swiftui-list,108,Mobile App
+2022,swift,firebase-realtime-database,103,Database
+2022,swift,swiftui-navigationlink,103,Mobile App
+2022,swift,swift-concurrency,95,Mobile App
+2022,swift,rx-swift,90,Mobile App
+2022,swift,swiftui-navigationview,83,Mobile App
+2022,swift,firebase-authentication,75,Web Backend
+2022,swift,xcode13,69,Mobile App
+2022,swift,ios15,68,Mobile App
+2022,swift,xcode14,67,Mobile App
+2022,swift,swift-protocols,61,Mobile App
+2022,swift,mobile,52,Mobile App
+2022,typescript,reactjs,7806,Web Frontend
+2022,typescript,angular,6326,Web Frontend
+2022,typescript,node.js,2677,Web Backend
+2022,typescript,typescript-generics,1212,Web Frontend
+2022,typescript,next.js,1185,Web Frontend
+2022,typescript,html,1148,Web Frontend
+2022,typescript,react-native,896,Mobile App
+2022,typescript,nestjs,831,Web Backend
+2022,typescript,vue.js,822,Web Frontend
+2022,typescript,typescript-typings,664,Web Frontend
+2022,typescript,react-hooks,606,Web Frontend
+2022,typescript,css,550,Web Frontend
+2022,typescript,express,498,Web Backend
+2022,typescript,vuejs3,455,Web Frontend
+2022,typescript,webpack,422,Web Frontend
+2022,typescript,firebase,372,Database
+2022,typescript,react-typescript,357,Web Frontend
+2022,typescript,angular-material,348,Web Frontend
+2022,typescript,mongodb,289,Database
+2022,typescript,axios,278,Mobile App
+2022,typescript,react-redux,203,Web Frontend
+2022,typescript,vite,197,Web Frontend
+2022,typescript,aws-cdk,172,DevOps & Cloud
+2022,typescript,svelte,163,Web Frontend
+2022,typescript,async-await,149,Data Science & AI
+2022,typescript,postgresql,147,Database
+2022,typescript,angular-reactive-forms,133,Web Frontend
+2022,typescript,react-router,131,Web Frontend
+2022,typescript,react-router-dom,126,Web Frontend
+2022,typescript,react-hook-form,121,Web Frontend
+2022,typescript,react-testing-library,114,Web Frontend
+2022,typescript,typescript-eslint,114,Web Frontend
+2022,typescript,react-query,109,Web Frontend
+2022,typescript,react-context,106,Web Frontend
+2022,typescript,aws-lambda,106,DevOps & Cloud
+2022,typescript,tailwind-css,103,Data Science & AI
+2022,typescript,node-modules,102,Web Backend
+2022,typescript,angularjs,90,Web Frontend
+2022,typescript,ts-node,88,Web Backend
+2022,typescript,docker,86,DevOps & Cloud
+2022,typescript,create-react-app,85,Web Frontend
+2022,typescript,angular13,82,Web Frontend
+2023,c#,asp.net-core,3326,Web Backend
+2023,c#,unity-game-engine,2982,Game Development
+2023,c#,asp.net,2269,Web Backend
+2023,c#,entity-framework-core,1712,Web Backend
+2023,c#,asp.net-mvc,1083,Web Backend
+2023,c#,entity-framework,1077,Web Backend
+2023,c#,azure,894,DevOps & Cloud
+2023,c#,sql-server,679,Database
+2023,c#,asp.net-core-webapi,608,Web Backend
+2023,c#,asp.net-core-mvc,486,Web Backend
+2023,c#,asp.net-web-api,486,Web Backend
+2023,c#,azure-functions,433,DevOps & Cloud
+2023,c#,async-await,415,Data Science & AI
+2023,c#,android,394,Mobile App
+2023,c#,sql,337,Database
+2023,c#,html,271,Web Frontend
+2023,c#,postgresql,210,Database
+2023,c#,docker,207,DevOps & Cloud
+2023,c#,authentication,195,Web Backend
+2023,c#,mongodb,192,Database
+2023,c#,asp.net-core-6.0,184,Web Backend
+2023,c#,mysql,184,Database
+2023,c#,azure-active-directory,172,DevOps & Cloud
+2023,c#,angular,162,Web Frontend
+2023,c#,sqlite,154,Database
+2023,c#,asp.net-identity,148,Web Backend
+2023,c#,jwt,148,Web Backend
+2023,c#,jquery,147,Web Frontend
+2023,c++,opencv,283,Data Science & AI
+2023,c++,opengl,227,Game Development
+2023,c++,android,135,Mobile App
+2023,c++,gdb,100,Database
+2023,c++,unreal-engine5,87,Game Development
+2023,go,postgresql,207,Database
+2023,go,docker,184,DevOps & Cloud
+2023,go,kubernetes,128,DevOps & Cloud
+2023,go,mongodb,127,Database
+2023,go,mysql,58,Database
+2023,go,sql,56,Database
+2023,go,aws-lambda,47,DevOps & Cloud
+2023,go,docker-compose,46,DevOps & Cloud
+2023,go,html,44,Web Frontend
+2023,go,azure,44,DevOps & Cloud
+2023,go,redis,37,Database
+2023,go,reactjs,32,Web Frontend
+2023,go,backend,28,Web Backend
+2023,go,node.js,27,Web Backend
+2023,go,jwt,27,Web Backend
+2023,go,amazon-dynamodb,27,Database
+2023,go,dockerfile,26,DevOps & Cloud
+2023,go,terraform,26,DevOps & Cloud
+2023,go,sqlc,24,Database
+2023,go,authentication,22,Web Backend
+2023,go,aws-sdk-go,20,DevOps & Cloud
+2023,java,spring-boot,7367,Web Backend
+2023,java,spring,4923,Web Backend
+2023,java,android,3990,Mobile App
+2023,java,hibernate,1406,Web Backend
+2023,java,kotlin,1168,Mobile App
+2023,java,spring-data-jpa,974,Web Backend
+2023,java,spring-security,715,Web Backend
+2023,java,android-studio,687,Mobile App
+2023,java,postgresql,510,Database
+2023,java,spring-mvc,492,Web Backend
+2023,java,mysql,484,Database
+2023,java,docker,438,DevOps & Cloud
+2023,java,jdbc,376,Database
+2023,java,spring-webflux,353,Web Backend
+2023,java,firebase,336,Database
+2023,java,sql,318,Database
+2023,java,mongodb,276,Database
+2023,java,oracle-database,212,Database
+2023,java,spring-kafka,205,Web Backend
+2023,java,flutter,201,Mobile App
+2023,java,spring-data,194,Web Backend
+2023,java,firebase-realtime-database,187,Database
+2023,java,html,186,Web Frontend
+2023,java,project-reactor,182,Web Frontend
+2023,java,azure,169,DevOps & Cloud
+2023,java,jwt,163,Web Backend
+2023,java,spring-batch,148,Web Backend
+2023,javascript,reactjs,15642,Web Frontend
+2023,javascript,html,12526,Web Frontend
+2023,javascript,node.js,7165,Web Backend
+2023,javascript,css,6787,Web Frontend
+2023,javascript,typescript,5405,Web Frontend
+2023,javascript,jquery,4026,Web Frontend
+2023,javascript,next.js,2862,Web Frontend
+2023,javascript,vue.js,2349,Web Frontend
+2023,javascript,angular,2107,Web Frontend
+2023,javascript,react-native,2036,Mobile App
+2023,javascript,react-hooks,1656,Web Frontend
+2023,javascript,express,1634,Web Backend
+2023,javascript,php,1479,Web Backend
+2023,javascript,firebase,1290,Database
+2023,javascript,mongodb,1107,Database
+2023,javascript,vuejs3,941,Web Frontend
+2023,javascript,ajax,882,Web Frontend
+2023,javascript,dom,766,Web Frontend
+2023,javascript,axios,756,Mobile App
+2023,javascript,react-router-dom,558,Web Frontend
+2023,javascript,vite,547,Web Frontend
+2023,javascript,react-router,518,Web Frontend
+2023,javascript,webpack,517,Web Frontend
+2023,javascript,async-await,515,Data Science & AI
+2023,javascript,django,504,Web Backend
+2023,javascript,laravel,482,Web Backend
+2023,javascript,tailwind-css,451,Data Science & AI
+2023,javascript,android,405,Mobile App
+2023,javascript,svelte,393,Web Frontend
+2023,javascript,bootstrap-5,378,Web Frontend
+2023,javascript,next.js13,374,Web Frontend
+2023,javascript,nestjs,305,Web Backend
+2023,javascript,mysql,297,Database
+2023,javascript,asp.net,288,Web Backend
+2023,javascript,firebase-authentication,279,Web Backend
+2023,javascript,flask,277,Web Backend
+2023,javascript,react-redux,263,Web Frontend
+2023,javascript,vuejs2,260,Web Frontend
+2023,javascript,html5-canvas,249,Web Frontend
+2023,javascript,ios,243,Mobile App
+2023,php,laravel,4444,Web Backend
+2023,php,mysql,1262,Database
+2023,php,html,1223,Web Frontend
+2023,php,symfony,768,Web Backend
+2023,php,jquery,596,Web Frontend
+2023,php,ajax,548,Web Frontend
+2023,php,docker,317,DevOps & Cloud
+2023,php,sql,302,Database
+2023,php,css,295,Web Frontend
+2023,php,laravel-8,273,Web Backend
+2023,php,laravel-10,265,Web Backend
+2023,php,laravel-9,251,Web Backend
+2023,php,composer-php,232,Web Backend
+2023,php,nginx,224,DevOps & Cloud
+2023,php,laravel-blade,193,Web Backend
+2023,php,phpunit,159,Web Backend
+2023,php,laravel-livewire,148,Web Backend
+2023,php,email,147,Data Science & AI
+2023,php,authentication,137,Web Backend
+2023,php,mysqli,123,Database
+2023,php,vue.js,121,Web Frontend
+2023,php,reactjs,121,Web Frontend
+2023,php,phpmailer,109,Data Science & AI
+2023,php,postgresql,99,Database
+2023,php,sql-server,96,Database
+2023,php,php-8,81,Web Backend
+2023,php,docker-compose,80,DevOps & Cloud
+2023,php,symfony6,78,Web Backend
+2023,php,php-curl,77,Web Backend
+2023,php,laravel-filament,74,Web Backend
+2023,php,mariadb,71,Database
+2023,php,phpstorm,71,Web Backend
+2023,php,mongodb,70,Database
+2023,php,jwt,65,Web Backend
+2023,php,dompdf,62,Web Frontend
+2023,php,backend,62,Web Backend
+2023,php,php-8.1,60,Web Backend
+2023,python,pandas,14558,Data Science & AI
+2023,python,dataframe,7306,Data Science & AI
+2023,python,django,5347,Web Backend
+2023,python,numpy,4600,Data Science & AI
+2023,python,matplotlib,3075,Data Science & AI
+2023,python,flask,2161,Web Backend
+2023,python,tensorflow,1842,Data Science & AI
+2023,python,pytorch,1785,Data Science & AI
+2023,python,opencv,1549,Data Science & AI
+2023,python,html,1453,Web Frontend
+2023,python,fastapi,1230,Web Backend
+2023,python,sqlalchemy,1208,Database
+2023,python,jupyter-notebook,1167,Data Science & AI
+2023,python,docker,1120,DevOps & Cloud
+2023,python,keras,1023,Data Science & AI
+2023,python,deep-learning,973,Data Science & AI
+2023,python,plotly,906,Data Science & AI
+2023,python,scikit-learn,853,Data Science & AI
+2023,python,django-models,812,Web Backend
+2023,python,postgresql,789,Database
+2023,python,django-rest-framework,768,Web Backend
+2023,python,azure,746,DevOps & Cloud
+2023,python,sql,685,Database
+2023,python,nlp,651,Data Science & AI
+2023,python,django-views,579,Web Backend
+2023,python,mysql,558,Database
+2023,python,seaborn,551,Data Science & AI
+2023,python,sqlite,504,Database
+2023,python,openai-api,501,Data Science & AI
+2023,python,langchain,478,Data Science & AI
+2023,python,aws-lambda,472,DevOps & Cloud
+2023,python,pygame,447,Game Development
+2023,python,plot,441,Data Science & AI
+2023,python,airflow,425,Data Science & AI
+2023,rust,traits,219,Data Science & AI
+2023,rust,async-await,73,Data Science & AI
+2023,rust,postgresql,71,Database
+2023,rust,docker,62,DevOps & Cloud
+2023,rust,rust-sqlx,54,Database
+2023,rust,trait-objects,35,Data Science & AI
+2023,swift,ios,4445,Mobile App
+2023,swift,swiftui,3471,Mobile App
+2023,swift,xcode,851,Mobile App
+2023,swift,firebase,276,Database
+2023,swift,swiftdata,157,Mobile App
+2023,swift,async-await,141,Data Science & AI
+2023,swift,flutter,121,Mobile App
+2023,swift,swift-package-manager,107,Mobile App
+2023,swift,swiftui-list,86,Mobile App
+2023,swift,ios17,81,Mobile App
+2023,swift,react-native,73,Mobile App
+2023,swift,swift-concurrency,68,Mobile App
+2023,swift,swiftui-navigationlink,66,Mobile App
+2023,swift,swiftui-navigationstack,64,Mobile App
+2023,swift,ios16,59,Mobile App
+2023,swift,xcode15,56,Mobile App
+2023,swift,swift-protocols,52,Mobile App
+2023,swift,swiftui-tabview,51,Mobile App
+2023,swift,swiftui-navigationview,47,Mobile App
+2023,swift,firebase-authentication,42,Web Backend
+2023,swift,swift5,38,Mobile App
+2023,swift,rx-swift,38,Mobile App
+2023,swift,firebase-realtime-database,37,Database
+2023,swift,kotlin,37,Mobile App
+2023,swift,swiftui-charts,37,Mobile App
+2023,swift,kotlin-multiplatform,35,Mobile App
+2023,swift,swiftui-animation,34,Mobile App
+2023,typescript,reactjs,5020,Web Frontend
+2023,typescript,angular,3373,Web Frontend
+2023,typescript,node.js,1783,Web Backend
+2023,typescript,next.js,1464,Web Frontend
+2023,typescript,typescript-generics,909,Web Frontend
+2023,typescript,nestjs,614,Web Backend
+2023,typescript,html,591,Web Frontend
+2023,typescript,vue.js,543,Web Frontend
+2023,typescript,react-native,479,Mobile App
+2023,typescript,react-hooks,414,Web Frontend
+2023,typescript,vite,402,Web Frontend
+2023,typescript,vuejs3,401,Web Frontend
+2023,typescript,typescript-typings,387,Web Frontend
+2023,typescript,express,363,Web Backend
+2023,typescript,css,317,Web Frontend
+2023,typescript,firebase,245,Database
+2023,typescript,react-typescript,241,Web Frontend
+2023,typescript,next.js13,241,Web Frontend
+2023,typescript,webpack,224,Web Frontend
+2023,typescript,mongodb,191,Database
+2023,typescript,axios,188,Mobile App
+2023,typescript,angular-material,182,Web Frontend
+2023,typescript,svelte,173,Web Frontend
+2023,typescript,tailwind-css,147,Data Science & AI
+2023,typescript,aws-cdk,132,DevOps & Cloud
+2023,typescript,sveltekit,127,Web Frontend
+2023,typescript,react-hook-form,122,Web Frontend
+2023,typescript,typescript-eslint,114,Web Frontend
+2023,typescript,postgresql,112,Database
+2023,typescript,next-auth,108,Web Backend
+2023,typescript,react-router-dom,105,Web Frontend
+2023,typescript,react-router,90,Web Frontend
+2023,typescript,async-await,90,Data Science & AI
+2023,typescript,node-modules,88,Web Backend
+2023,typescript,aws-lambda,86,DevOps & Cloud
+2023,typescript,react-query,81,Web Frontend
+2023,typescript,vitest,80,Web Frontend
+2023,typescript,angular-reactive-forms,79,Web Frontend
+2023,typescript,react-redux,77,Web Frontend
+2023,typescript,react-context,69,Web Frontend
+2023,typescript,azure,68,DevOps & Cloud
+2023,typescript,ts-node,68,Web Backend
+2024,c#,asp.net-core,2178,Web Backend
+2024,c#,unity-game-engine,1440,Game Development
+2024,c#,entity-framework-core,1046,Web Backend
+2024,c#,asp.net,1031,Web Backend
+2024,c#,azure,551,DevOps & Cloud
+2024,c#,asp.net-mvc,467,Web Backend
+2024,c#,asp.net-core-webapi,417,Web Backend
+2024,c#,entity-framework,417,Web Backend
+2024,c#,sql-server,376,Database
+2024,c#,asp.net-core-mvc,340,Web Backend
+2024,c#,azure-functions,273,DevOps & Cloud
+2024,c#,android,239,Mobile App
+2024,c#,async-await,211,Data Science & AI
+2024,c#,asp.net-web-api,208,Web Backend
+2024,c#,postgresql,145,Database
+2024,c#,authentication,142,Web Backend
+2024,c#,docker,139,DevOps & Cloud
+2024,c#,sql,134,Database
+2024,c#,html,115,Web Frontend
+2024,c#,jwt,111,Web Backend
+2024,c#,asp.net-core-8,110,Web Backend
+2024,c#,mongodb,106,Database
+2024,c#,ios,97,Mobile App
+2024,c#,asp.net-identity,87,Web Backend
+2024,c#,mudblazor,85,Database
+2024,c#,sqlite,82,Database
+2024,c#,jquery,78,Web Frontend
+2024,c++,opencv,162,Data Science & AI
+2024,c++,opengl,110,Game Development
+2024,c++,android,89,Mobile App
+2024,c++,unreal-engine5,61,Game Development
+2024,go,docker,117,DevOps & Cloud
+2024,go,postgresql,94,Database
+2024,go,mongodb,55,Database
+2024,go,kubernetes,47,DevOps & Cloud
+2024,go,docker-compose,39,DevOps & Cloud
+2024,go,aws-lambda,26,DevOps & Cloud
+2024,go,sqlc,23,Database
+2024,go,redis,22,Database
+2024,go,terraform,22,DevOps & Cloud
+2024,go,sql,21,Database
+2024,go,mysql,20,Database
+2024,go,azure,20,DevOps & Cloud
+2024,go,dockerfile,19,DevOps & Cloud
+2024,go,html,18,Web Frontend
+2024,go,backend,17,Web Backend
+2024,go,sqlite,16,Database
+2024,go,reactjs,14,Web Frontend
+2024,go,go-redis,13,Database
+2024,go,oauth-2.0,11,Web Backend
+2024,go,authentication,11,Web Backend
+2024,go,amazon-dynamodb,10,Database
+2024,go,firebase,10,Database
+2024,go,testcontainers,10,Data Science & AI
+2024,go,typescript,10,Web Frontend
+2024,java,spring-boot,3558,Web Backend
+2024,java,spring,2377,Web Backend
+2024,java,android,1728,Mobile App
+2024,java,hibernate,689,Web Backend
+2024,java,kotlin,554,Mobile App
+2024,java,spring-data-jpa,430,Web Backend
+2024,java,spring-security,317,Web Backend
+2024,java,spring-mvc,255,Web Backend
+2024,java,postgresql,255,Database
+2024,java,docker,217,DevOps & Cloud
+2024,java,android-studio,212,Mobile App
+2024,java,jdbc,182,Database
+2024,java,mysql,151,Database
+2024,java,flutter,137,Mobile App
+2024,java,firebase,133,Database
+2024,java,spring-webflux,123,Web Backend
+2024,java,sql,120,Database
+2024,java,oracle-database,115,Database
+2024,java,mongodb,102,Database
+2024,java,spring-kafka,90,Web Backend
+2024,java,azure,88,DevOps & Cloud
+2024,java,html,87,Web Frontend
+2024,java,spring-data,80,Web Backend
+2024,java,kubernetes,80,DevOps & Cloud
+2024,java,project-reactor,76,Web Frontend
+2024,java,jwt,75,Web Backend
+2024,java,spring-batch,68,Web Backend
+2024,java,firebase-realtime-database,66,Database
+2024,javascript,reactjs,5410,Web Frontend
+2024,javascript,html,4992,Web Frontend
+2024,javascript,css,2713,Web Frontend
+2024,javascript,node.js,2701,Web Backend
+2024,javascript,typescript,2269,Web Frontend
+2024,javascript,next.js,1338,Web Frontend
+2024,javascript,jquery,1304,Web Frontend
+2024,javascript,angular,932,Web Frontend
+2024,javascript,vue.js,897,Web Frontend
+2024,javascript,react-native,755,Mobile App
+2024,javascript,php,654,Web Backend
+2024,javascript,express,651,Web Backend
+2024,javascript,firebase,510,Database
+2024,javascript,vuejs3,419,Web Frontend
+2024,javascript,dom,360,Web Frontend
+2024,javascript,vite,349,Web Frontend
+2024,javascript,react-hooks,343,Web Frontend
+2024,javascript,ajax,327,Web Frontend
+2024,javascript,mongodb,296,Database
+2024,javascript,laravel,256,Web Backend
+2024,javascript,axios,242,Mobile App
+2024,javascript,webpack,239,Web Frontend
+2024,javascript,tailwind-css,221,Data Science & AI
+2024,javascript,django,203,Web Backend
+2024,javascript,async-await,202,Data Science & AI
+2024,javascript,android,197,Mobile App
+2024,javascript,svelte,187,Web Frontend
+2024,javascript,react-router-dom,175,Web Frontend
+2024,javascript,react-router,167,Web Frontend
+2024,javascript,flask,158,Web Backend
+2024,javascript,bootstrap-5,155,Web Frontend
+2024,javascript,asp.net,154,Web Backend
+2024,javascript,ios,154,Mobile App
+2024,javascript,asp.net-core,150,Web Backend
+2024,javascript,nestjs,137,Web Backend
+2024,javascript,html5-canvas,127,Web Frontend
+2024,javascript,firebase-authentication,126,Web Backend
+2024,javascript,asp.net-mvc,108,Web Backend
+2024,javascript,next.js13,106,Web Frontend
+2024,javascript,authentication,104,Web Backend
+2024,javascript,sveltekit,103,Web Frontend
+2024,javascript,backend,101,Web Backend
+2024,php,laravel,2315,Web Backend
+2024,php,html,482,Web Frontend
+2024,php,symfony,447,Web Backend
+2024,php,mysql,391,Database
+2024,php,docker,216,DevOps & Cloud
+2024,php,ajax,214,Web Frontend
+2024,php,laravel-11,195,Web Backend
+2024,php,jquery,192,Web Frontend
+2024,php,laravel-10,152,Web Backend
+2024,php,laravel-livewire,143,Web Backend
+2024,php,nginx,129,DevOps & Cloud
+2024,php,laravel-blade,119,Web Backend
+2024,php,css,112,Web Frontend
+2024,php,phpunit,99,Web Backend
+2024,php,composer-php,88,Web Backend
+2024,php,email,88,Data Science & AI
+2024,php,authentication,81,Web Backend
+2024,php,sql,74,Database
+2024,php,laravel-filament,70,Web Backend
+2024,php,reactjs,67,Web Frontend
+2024,php,laravel-8,67,Web Backend
+2024,php,phpmailer,57,Data Science & AI
+2024,php,docker-compose,54,DevOps & Cloud
+2024,php,postgresql,53,Database
+2024,php,vue.js,50,Web Frontend
+2024,php,cakephp,46,Web Backend
+2024,php,sql-server,44,Database
+2024,php,filamentphp,44,Web Backend
+2024,php,node.js,42,Web Backend
+2024,php,php-curl,42,Web Backend
+2024,php,mariadb,38,Database
+2024,php,laravel-artisan,37,Web Backend
+2024,php,redis,36,Database
+2024,php,mongodb,36,Database
+2024,php,mysqli,35,Database
+2024,php,oauth-2.0,35,Web Backend
+2024,php,symfony6,33,Web Backend
+2024,php,jwt,33,Web Backend
+2024,php,phpstan,33,Web Backend
+2024,python,pandas,4853,Data Science & AI
+2024,python,dataframe,2612,Data Science & AI
+2024,python,django,2303,Web Backend
+2024,python,numpy,2008,Data Science & AI
+2024,python,matplotlib,1560,Data Science & AI
+2024,python,flask,1192,Web Backend
+2024,python,pytorch,995,Data Science & AI
+2024,python,tensorflow,859,Data Science & AI
+2024,python,fastapi,794,Web Backend
+2024,python,opencv,664,Data Science & AI
+2024,python,sqlalchemy,662,Database
+2024,python,docker,623,DevOps & Cloud
+2024,python,html,590,Web Frontend
+2024,python,jupyter-notebook,542,Data Science & AI
+2024,python,azure,521,DevOps & Cloud
+2024,python,keras,501,Data Science & AI
+2024,python,deep-learning,441,Data Science & AI
+2024,python,langchain,420,Data Science & AI
+2024,python,postgresql,403,Database
+2024,python,scikit-learn,368,Data Science & AI
+2024,python,plotly,362,Data Science & AI
+2024,python,django-rest-framework,313,Web Backend
+2024,python,django-models,293,Web Backend
+2024,python,sql,285,Database
+2024,python,plot,260,Data Science & AI
+2024,python,openai-api,254,Data Science & AI
+2024,python,sqlite,241,Database
+2024,python,nlp,240,Data Science & AI
+2024,python,seaborn,228,Data Science & AI
+2024,python,airflow,219,Data Science & AI
+2024,python,aws-lambda,208,DevOps & Cloud
+2024,rust,traits,124,Data Science & AI
+2024,rust,rust-sqlx,50,Database
+2024,rust,postgresql,34,Database
+2024,rust,async-await,33,Data Science & AI
+2024,rust,docker,25,DevOps & Cloud
+2024,rust,trait-objects,13,Data Science & AI
+2024,rust,android,13,Mobile App
+2024,rust,sqlite,12,Database
+2024,rust,node.js,11,Web Backend
+2024,swift,ios,2401,Mobile App
+2024,swift,swiftui,2159,Mobile App
+2024,swift,xcode,471,Mobile App
+2024,swift,swiftdata,277,Mobile App
+2024,swift,firebase,125,Database
+2024,swift,flutter,87,Mobile App
+2024,swift,swift-concurrency,78,Mobile App
+2024,swift,async-await,57,Data Science & AI
+2024,swift,swift-package-manager,57,Mobile App
+2024,swift,react-native,53,Mobile App
+2024,swift,swiftui-list,50,Mobile App
+2024,swift,swift6,47,Mobile App
+2024,swift,swiftui-charts,43,Mobile App
+2024,swift,ios18,42,Mobile App
+2024,swift,swiftui-navigationstack,41,Mobile App
+2024,swift,swiftui-navigationlink,36,Mobile App
+2024,swift,ios17,30,Mobile App
+2024,swift,xcode16,29,Mobile App
+2024,swift,firebase-authentication,28,Web Backend
+2024,swift,xcode15,24,Mobile App
+2024,swift,swift-data-relationship,24,Mobile App
+2024,swift,kotlin,24,Mobile App
+2024,swift,mobile,23,Mobile App
+2024,swift,swiftui-tabview,23,Mobile App
+2024,swift,swift-protocols,22,Mobile App
+2024,swift,swiftui-scrollview,20,Mobile App
+2024,swift,firebase-cloud-messaging,19,Database
+2024,typescript,reactjs,2250,Web Frontend
+2024,typescript,angular,1670,Web Frontend
+2024,typescript,next.js,975,Web Frontend
+2024,typescript,node.js,973,Web Backend
+2024,typescript,typescript-generics,384,Web Frontend
+2024,typescript,html,298,Web Frontend
+2024,typescript,vue.js,291,Web Frontend
+2024,typescript,react-native,274,Mobile App
+2024,typescript,vite,259,Web Frontend
+2024,typescript,nestjs,258,Web Backend
+2024,typescript,vuejs3,187,Web Frontend
+2024,typescript,express,185,Web Backend
+2024,typescript,css,139,Web Frontend
+2024,typescript,tailwind-css,113,Data Science & AI
+2024,typescript,react-hooks,111,Web Frontend
+2024,typescript,typescript-typings,109,Web Frontend
+2024,typescript,webpack,104,Web Frontend
+2024,typescript,firebase,103,Database
+2024,typescript,angular-material,95,Web Frontend
+2024,typescript,postgresql,92,Database
+2024,typescript,react-hook-form,87,Web Frontend
+2024,typescript,svelte,87,Web Frontend
+2024,typescript,react-typescript,86,Web Frontend
+2024,typescript,mongodb,85,Database
+2024,typescript,axios,73,Mobile App
+2024,typescript,angular17,69,Web Frontend
+2024,typescript,vitest,63,Web Frontend
+2024,typescript,next-auth,62,Web Backend
+2024,typescript,typescript-eslint,58,Web Frontend
+2024,typescript,playwright-typescript,56,Web Frontend
+2024,typescript,authentication,55,Web Backend
+2024,typescript,sveltekit,55,Web Frontend
+2024,typescript,aws-cdk,54,DevOps & Cloud
+2024,typescript,react-router-dom,54,Web Frontend
+2024,typescript,angular-reactive-forms,49,Web Frontend
+2024,typescript,next.js13,47,Web Frontend
+2024,typescript,react-query,46,Web Frontend
+2024,typescript,aws-lambda,46,DevOps & Cloud
+2024,typescript,angular-signals,46,Web Frontend
+2024,typescript,docker,45,DevOps & Cloud
+2024,typescript,async-await,44,Data Science & AI
+2024,typescript,server-side-rendering,43,Game Development
+2024,typescript,react-router,40,Web Frontend
+2024,typescript,azure,40,DevOps & Cloud
+2024,typescript,next.js14,37,Web Frontend
+2024,typescript,backend,37,Web Backend
+2024,typescript,react-context,36,Web Frontend
+2024,typescript,tanstackreact-query,35,Web Frontend
+2024,typescript,angularjs,33,Web Frontend
+2025,c#,asp.net-core,612,Web Backend
+2025,c#,unity-game-engine,368,Game Development
+2025,c#,entity-framework-core,278,Web Backend
+2025,c#,azure,193,DevOps & Cloud
+2025,c#,asp.net,188,Web Backend
+2025,c#,asp.net-core-webapi,138,Web Backend
+2025,c#,android,92,Mobile App
+2025,c#,azure-functions,91,DevOps & Cloud
+2025,c#,sql-server,89,Database
+2025,c#,asp.net-core-mvc,85,Web Backend
+2025,c#,entity-framework,78,Web Backend
+2025,c#,asp.net-mvc,74,Web Backend
+2025,c#,authentication,49,Web Backend
+2025,c#,docker,45,DevOps & Cloud
+2025,c#,mudblazor,39,Database
+2025,c#,postgresql,37,Database
+2025,c#,asp.net-web-api,36,Web Backend
+2025,c#,jwt,36,Web Backend
+2025,c#,asp.net-core-8,29,Web Backend
+2025,c#,ios,29,Mobile App
+2025,c#,asp.net-core-identity,28,Web Backend
+2025,c#,mongodb,28,Database
+2025,c#,html,28,Web Frontend
+2025,c#,sql,24,Database
+2025,c#,amazon-web-services,24,DevOps & Cloud
+2025,c#,azure-devops,24,DevOps & Cloud
+2025,c#,npgsql,23,Database
+2025,c++,opengl,37,Game Development
+2025,c++,lambda,36,DevOps & Cloud
+2025,c++,android,32,Mobile App
+2025,c++,gdb,31,Database
+2025,c++,opencv,29,Data Science & AI
+2025,c++,vulkan,27,Game Development
+2025,c++,unreal-engine5,24,Game Development
+2025,go,postgresql,19,Database
+2025,go,docker,18,DevOps & Cloud
+2025,go,kubernetes,18,DevOps & Cloud
+2025,go,mongodb,10,Database
+2025,go,apache-kafka,8,DevOps & Cloud
+2025,go,google-cloud-platform,8,DevOps & Cloud
+2025,go,aws-lambda,7,DevOps & Cloud
+2025,go,redis,7,Database
+2025,go,sqlc,7,Database
+2025,go,html,6,Web Frontend
+2025,go,amazon-web-services,6,DevOps & Cloud
+2025,go,docker-compose,5,DevOps & Cloud
+2025,go,amazon-s3,5,DevOps & Cloud
+2025,go,sqlite,5,Database
+2025,go,graphql,5,Web Backend
+2025,go,azure,4,DevOps & Cloud
+2025,go,backend,4,Web Backend
+2025,go,sql,4,Database
+2025,go,flutter,4,Mobile App
+2025,go,google-cloud-pubsub,4,DevOps & Cloud
+2025,go,reactjs,4,Web Frontend
+2025,go,common-expression-language,3,Web Backend
+2025,go,mysql,3,Database
+2025,go,kubernetes-custom-resources,3,DevOps & Cloud
+2025,go,cookies,3,Web Backend
+2025,go,google-cloud-build,3,DevOps & Cloud
+2025,java,spring-boot,1301,Web Backend
+2025,java,spring,851,Web Backend
+2025,java,android,492,Mobile App
+2025,java,hibernate,305,Web Backend
+2025,java,gradle,193,Mobile App
+2025,java,kotlin,190,Mobile App
+2025,java,spring-data-jpa,133,Web Backend
+2025,java,spring-security,96,Web Backend
+2025,java,postgresql,94,Database
+2025,java,apache-kafka,90,DevOps & Cloud
+2025,java,docker,85,DevOps & Cloud
+2025,java,tomcat,74,Web Backend
+2025,java,spring-mvc,65,Web Backend
+2025,java,spring-webflux,64,Web Backend
+2025,java,android-studio,62,Mobile App
+2025,java,flutter,61,Mobile App
+2025,java,jdbc,60,Database
+2025,java,amazon-web-services,58,DevOps & Cloud
+2025,java,spring-kafka,52,Web Backend
+2025,java,apache-camel,45,DevOps & Cloud
+2025,java,sql,45,Database
+2025,java,azure,44,DevOps & Cloud
+2025,java,apache-flink,42,DevOps & Cloud
+2025,java,oracle-database,41,Database
+2025,java,apache-spark,39,DevOps & Cloud
+2025,java,redis,37,Database
+2025,java,apache-poi,36,DevOps & Cloud
+2025,java,mongodb,35,Database
+2025,java,amazon-s3,33,DevOps & Cloud
+2025,java,spring-data,31,Web Backend
+2025,java,spring-batch,31,Web Backend
+2025,java,project-reactor,29,Web Frontend
+2025,java,html,29,Web Frontend
+2025,java,spring-ai,28,Web Backend
+2025,java,oauth-2.0,25,Web Backend
+2025,java,authentication,22,Web Backend
+2025,javascript,html,1119,Web Frontend
+2025,javascript,reactjs,1089,Web Frontend
+2025,javascript,css,678,Web Frontend
+2025,javascript,typescript,580,Web Frontend
+2025,javascript,node.js,544,Web Backend
+2025,javascript,next.js,292,Web Frontend
+2025,javascript,jquery,251,Web Frontend
+2025,javascript,react-native,229,Mobile App
+2025,javascript,angular,228,Web Frontend
+2025,javascript,vue.js,184,Web Frontend
+2025,javascript,firebase,122,Database
+2025,javascript,php,117,Web Backend
+2025,javascript,vite,107,Web Frontend
+2025,javascript,android,94,Mobile App
+2025,javascript,express,87,Web Backend
+2025,javascript,tailwind-css,79,Web Frontend
+2025,javascript,dom,79,Web Frontend
+2025,javascript,vuejs3,78,Web Frontend
+2025,javascript,ios,74,Mobile App
+2025,javascript,three.js,69,Web Frontend
+2025,javascript,webpack,67,Web Frontend
+2025,javascript,firebase-authentication,57,Web Backend
+2025,javascript,ajax,57,Web Frontend
+2025,javascript,svelte,56,Web Frontend
+2025,javascript,laravel,53,Web Backend
+2025,javascript,google-cloud-functions,50,DevOps & Cloud
+2025,javascript,canvas,49,Web Frontend
+2025,javascript,react-hooks,47,Web Frontend
+2025,javascript,google-cloud-firestore,43,DevOps & Cloud
+2025,javascript,animation,42,Game Development
+2025,javascript,html5-canvas,41,Web Frontend
+2025,javascript,axios,37,Mobile App
+2025,javascript,nestjs,35,Web Backend
+2025,javascript,django,34,Web Backend
+2025,javascript,react-router,34,Web Frontend
+2025,javascript,cookies,34,Web Backend
+2025,javascript,mongodb,34,Database
+2025,javascript,bootstrap-5,28,Web Frontend
+2025,javascript,nuxt.js,28,Web Frontend
+2025,javascript,asp.net-core,27,Web Backend
+2025,javascript,amazon-web-services,23,DevOps & Cloud
+2025,javascript,mobile,23,Mobile App
+2025,php,laravel,568,Web Backend
+2025,php,symfony,110,Web Backend
+2025,php,html,96,Web Frontend
+2025,php,docker,61,DevOps & Cloud
+2025,php,apache,56,DevOps & Cloud
+2025,php,laravel-11,54,Web Backend
+2025,php,ajax,49,Web Frontend
+2025,php,laravel-livewire,42,Web Backend
+2025,php,laravel-12,41,Web Backend
+2025,php,mysql,40,Database
+2025,php,laravel-filament,39,Web Backend
+2025,php,jquery,33,Web Frontend
+2025,php,nginx,31,DevOps & Cloud
+2025,php,phpunit,26,Web Backend
+2025,php,css,26,Web Frontend
+2025,php,session,26,Web Backend
+2025,php,filamentphp,26,Web Backend
+2025,php,reactjs,24,Web Frontend
+2025,php,laravel-blade,22,Web Backend
+2025,php,composer-php,22,Web Backend
+2025,php,laravel-10,19,Web Backend
+2025,php,authentication,17,Web Backend
+2025,php,sql,15,Database
+2025,php,amazon-web-services,14,DevOps & Cloud
+2025,php,mysqli,14,Database
+2025,php,phpstorm,14,Web Backend
+2025,php,phpstan,13,Web Backend
+2025,php,google-cloud-platform,13,DevOps & Cloud
+2025,php,php-8.2,12,Web Backend
+2025,php,vue.js,12,Web Frontend
+2025,php,postgresql,12,Database
+2025,php,cookies,11,Web Backend
+2025,php,jwt,11,Web Backend
+2025,php,laravel-8,11,Web Backend
+2025,php,mariadb,11,Database
+2025,php,phpword,11,Web Backend
+2025,php,docker-compose,11,DevOps & Cloud
+2025,php,oauth-2.0,10,Web Backend
+2025,php,laravel-sanctum,10,Web Backend
+2025,php,sql-server,10,Database
+2025,php,php-8.4,9,Web Backend
+2025,php,firebase,9,Database
+2025,php,odbc,9,Database
+2025,python,pandas,1003,Data Science & AI
+2025,python,dataframe,570,Data Science & AI
+2025,python,numpy,534,Data Science & AI
+2025,python,django,500,Web Backend
+2025,python,matplotlib,432,Data Science & AI
+2025,python,pytorch,330,Data Science & AI
+2025,python,flask,286,Web Backend
+2025,python,fastapi,242,Web Backend
+2025,python,tensorflow,237,Data Science & AI
+2025,python,sqlalchemy,204,Database
+2025,python,azure,189,DevOps & Cloud
+2025,python,docker,184,DevOps & Cloud
+2025,python,jupyter-notebook,169,Data Science & AI
+2025,python,opencv,137,Data Science & AI
+2025,python,postgresql,135,Database
+2025,python,plotly,133,Data Science & AI
+2025,python,deep-learning,120,Data Science & AI
+2025,python,keras,117,Data Science & AI
+2025,python,html,114,Web Frontend
+2025,python,amazon-web-services,96,DevOps & Cloud
+2025,python,huggingface-transformers,91,Data Science & AI
+2025,python,apache-spark,81,DevOps & Cloud
+2025,python,conda,78,Data Science & AI
+2025,python,scikit-learn,76,Data Science & AI
+2025,python,azure-functions,74,DevOps & Cloud
+2025,python,google-cloud-platform,71,DevOps & Cloud
+2025,python,seaborn,64,Data Science & AI
+2025,python,django-rest-framework,61,Web Backend
+2025,python,sqlite,61,Database
+2025,python,nlp,58,Data Science & AI
+2025,python,sql,57,Database
+2025,rust,docker,11,DevOps & Cloud
+2025,rust,rust-sqlx,9,Database
+2025,rust,postgresql,8,Database
+2025,rust,android,8,Mobile App
+2025,rust,dataframe,7,Data Science & AI
+2025,swift,ios,1036,Mobile App
+2025,swift,swiftui,848,Mobile App
+2025,swift,xcode,141,Mobile App
+2025,swift,uikit,138,Mobile App
+2025,swift,swiftdata,73,Mobile App
+2025,swift,ios26,64,Mobile App
+2025,swift,swift-concurrency,46,Mobile App
+2025,swift,flutter,42,Mobile App
+2025,swift,swift6,41,Mobile App
+2025,swift,firebase,40,Database
+2025,swift,react-native,36,Mobile App
+2025,swift,animation,31,Game Development
+2025,swift,swiftui-navigationstack,19,Mobile App
+2025,swift,swift-package-manager,18,Mobile App
+2025,swift,swiftui-list,17,Mobile App
+2025,swift,swiftui-tabview,15,Mobile App
+2025,swift,widgetliveactivity,14,Mobile App
+2025,swift,urlsession,13,Web Backend
+2025,swift,google-cloud-firestore,12,DevOps & Cloud
+2025,swift,ios18,12,Mobile App
+2025,swift,firebase-authentication,11,Web Backend
+2025,swift,mobile,10,Mobile App
+2025,swift,swiftui-scrollview,10,Mobile App
+2025,swift,swiftui-navigationlink,9,Mobile App
+2025,swift,swiftui-sheet,9,Mobile App
+2025,swift,sprite-kit,8,Game Development
+2025,swift,xcode16,8,Mobile App
+2025,swift,cocoapods,7,Mobile App
+2025,swift,swift-macro,7,Mobile App
+2025,swift,swiftui-charts,7,Mobile App
+2025,swift,swift-testing,7,Mobile App
+2025,swift,kotlin,7,Mobile App
+2025,typescript,angular,517,Web Frontend
+2025,typescript,reactjs,502,Web Frontend
+2025,typescript,next.js,290,Web Frontend
+2025,typescript,node.js,274,Web Backend
+2025,typescript,react-native,133,Mobile App
+2025,typescript,typescript-generics,123,Web Frontend
+2025,typescript,nestjs,103,Web Backend
+2025,typescript,vite,82,Web Frontend
+2025,typescript,html,80,Web Frontend
+2025,typescript,vue.js,77,Web Frontend
+2025,typescript,angular-signals,64,Web Frontend
+2025,typescript,express,60,Web Backend
+2025,typescript,css,45,Web Frontend
+2025,typescript,tailwind-css,40,Web Frontend
+2025,typescript,webpack,37,Web Frontend
+2025,typescript,vuejs3,37,Web Frontend
+2025,typescript,react-hook-form,31,Web Frontend
+2025,typescript,angular-material,31,Web Frontend
+2025,typescript,firebase,30,Database
+2025,typescript,angular19,29,Web Frontend
+2025,typescript,postgresql,28,Database
+2025,typescript,nuxt.js,26,Web Frontend
+2025,typescript,svelte,26,Web Frontend
+2025,typescript,next-auth,24,Web Backend
+2025,typescript,mongodb,23,Database
+2025,typescript,axios,21,Mobile App
+2025,typescript,vitest,21,Web Frontend
+2025,typescript,react-typescript,21,Web Frontend
+2025,typescript,graphql,19,Web Backend
+2025,typescript,amazon-web-services,18,DevOps & Cloud
+2025,typescript,typescript-eslint,16,Web Frontend
+2025,typescript,server-side-rendering,16,Game Development
+2025,typescript,nuxt3.js,16,Web Frontend
+2025,typescript,playwright-typescript,15,Web Frontend
+2025,typescript,authentication,15,Web Backend
+2025,typescript,jwt,14,Web Backend
+2025,typescript,ios,14,Mobile App
+2025,typescript,android,14,Mobile App
+2025,typescript,angular-reactive-forms,13,Web Frontend
+2025,typescript,angular-httpclient,13,Web Frontend
+2025,typescript,aws-cdk,13,DevOps & Cloud
+2025,typescript,google-cloud-firestore,13,DevOps & Cloud
+2025,typescript,angular20,12,Web Frontend
+2025,typescript,ts-node,12,Web Backend
+2025,typescript,next.js15,12,Web Frontend
+2025,typescript,azure,11,DevOps & Cloud
+2025,typescript,aws-lambda,11,DevOps & Cloud
