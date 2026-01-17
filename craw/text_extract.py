@@ -148,10 +148,14 @@ def remove_punctuation(tokens: List[str], lang: str) -> List[str]:
         return tokens
 
 def remove_stop_words(tokens: List[str], lang: str) -> List[str]:
-    if lang == 'en':
-        tokens = [word for word in tokens if word not in EN_STOPWORDS]
-    elif lang == 'vi':
-        tokens = [word for word in tokens if word not in VI_STOPWORDS]
+    match lang:
+        case 'en':
+            tokens = [word for word in tokens if word not in EN_STOPWORDS]
+        case 'vi':
+            tokens = [word for word in tokens if word not in VI_STOPWORDS]
+        case _:
+            all_stopwords = EN_STOPWORDS | VI_STOPWORDS
+            tokens = [word for word in tokens if word not in all_stopwords]
 
     return tokens
 

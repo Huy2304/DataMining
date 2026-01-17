@@ -1,5 +1,7 @@
 import os
-from text_extract import lemma_words
+import concurrent.futures
+from text_extract import lemma_words, stem_words
+from transformer_tech_extract import extract_tech_by_capability
 
 def clean_key_file(path: str, filename: str) -> bool:
     file_path = os.path.join(path, filename)
@@ -29,11 +31,17 @@ def clean_key_file(path: str, filename: str) -> bool:
             wordnet_pos = 'r'
         else:
             wordnet_pos = 'n'
-        lemmas = lemma_words(keys, wordnet_pos)
-        for lemma in lemmas:
+        lemmas = list(set(lemma_words(keys, wordnet_pos)))
+        # stemmed = stem_words(lemmas)
+        with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
+            # tech_terms = list(executor.map(extract_tech_by_capability, stemmed))
+            tech_terms = list(executor.map(extract_tech_by_capability, lemmas))
+        for i, lemma in enumerate(lemmas):
             if lemma.lower() not in seen_lemmas:
                 seen_lemmas.add(lemma.lower())
-                unique_lines.append(f"{lemma},{pos}")
+                tech_term = tech_terms[i]
+                if tech_term:
+                    unique_lines.append(f"{tech_term},{pos}")
     # Sort by lemma then by pos in ascending alphabetical order
     unique_lines.sort(key=lambda x: (x.split(',')[0].strip(), x.split(',')[1].strip()))
     with open(file_path, 'w', encoding='utf-8') as f:
