@@ -10,14 +10,14 @@ def clean_key_file(path: str, filename: str) -> bool:
         line = line.strip()
         if ',' in line:
             key = line.split(',')[0].strip()
-            if key not in seen:
+            if key and key[0].isalpha() and key not in seen:
                 seen.add(key)
                 unique_lines.append(line)
-    if len(unique_lines) != len(lines):
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(unique_lines) + '\n')
-        return True
-    return False
+    # Sort by key then by pos in ascending alphabetical order
+    unique_lines.sort(key=lambda x: (x.split(',')[0].strip(), x.split(',')[1].strip()))
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(unique_lines) + '\n')
+    return True
 
 if __name__ == "__main__":
     clean_key_file("craw", "key_map.txt")

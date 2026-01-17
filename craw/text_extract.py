@@ -120,6 +120,7 @@ def word_tokenize(text: str, lang: str) -> List[str]:
     tokens = []
     pattern = r'\b[A-Z][\w]*(?:\s+[A-Z][\w]*)+'
     processed_text = re.sub(pattern, lambda m: m.group(0).replace(' ', '_'), text)
+    processed_text = re.sub(r'\s*-\s*', '-', processed_text)
     if lang == 'en':
         tokenizer = RegexpTokenizer(r'\w+(?:-\w+)*')
         tokens = tokenizer.tokenize(processed_text)
@@ -164,6 +165,14 @@ def lemma_words(tokens: List[str], wordnet_pos: str='') -> List[str]:
     lemmatized_words = [lemmatizer.lemmatize(word, pos=wordnet_pos) for word in tokens]
     return lemmatized_words
 
+def strim_words(tokens: List[str]) -> List[str]:
+    tokens = [token.strip() for token in tokens]
+    return tokens
+
+def remove_empty_words(tokens: List[str]) -> List[str]:
+    tokens = [token for token in tokens if token.strip()]
+    return tokens
+
 if __name__ == "__main__":
 
     # text = "Biết sử dụng Framework Phaser là một lợi thế"
@@ -177,6 +186,8 @@ if __name__ == "__main__":
     tokens = word_tokenize(text, detected_lang)
     tokens = remove_punctuation(tokens, detected_lang)
     tokens = remove_stop_words(tokens, detected_lang)
+    tokens = strim_words(tokens)
+    tokens = remove_empty_words(tokens)
 
     print(tokens)
 

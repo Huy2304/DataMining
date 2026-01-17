@@ -1,6 +1,6 @@
 import os
 from typing import List, Set
-from text_extract import download_nltk_data, lang_detect, word_tokenize, remove_punctuation, remove_stop_words, lemma_words
+from text_extract import download_nltk_data, lang_detect, word_tokenize, remove_punctuation, remove_stop_words, lemma_words, strim_words, remove_empty_words
 import nltk
 
 def extract_raw_keys(text: str) -> dict[str, str]:
@@ -8,11 +8,14 @@ def extract_raw_keys(text: str) -> dict[str, str]:
     tokens = word_tokenize(text, detected_lang)
     tokens = remove_punctuation(tokens, detected_lang)
     tokens = remove_stop_words(tokens, detected_lang)
+    tokens = strim_words(tokens)
+    tokens = remove_empty_words(tokens)
 
     en_tokens = [w for w in tokens if w.isascii()]
     lemmatized = lemma_words(en_tokens, 'n')
     pos_tags = nltk.pos_tag(lemmatized)
-    words_to_save = {en_tokens[i]: v for i, (k, v) in enumerate(pos_tags) if v == "NN" or v == "NNP"}
+    pos_list = ["NN", "NNP"]
+    words_to_save = {en_tokens[i]: v for i, (k, v) in enumerate(pos_tags) if v in pos_list}
 
     return words_to_save
 
