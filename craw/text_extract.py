@@ -160,7 +160,7 @@ def stem_words(tokens: List[str]) -> List[str]:
     stemming_words = [ps.stem(word) for word in tokens]
     return stemming_words
 
-def lemma_words(tokens: List[str], wordnet_pos: str='') -> List[str]:
+def lemma_words(tokens: List[str], wordnet_pos: str='n') -> List[str]:
     lemmatizer = WordNetLemmatizer()
     lemmatized_words = [lemmatizer.lemmatize(word, pos=wordnet_pos) for word in tokens]
     return lemmatized_words
@@ -171,6 +171,10 @@ def strim_words(tokens: List[str]) -> List[str]:
 
 def remove_empty_words(tokens: List[str]) -> List[str]:
     tokens = [token for token in tokens if token.strip()]
+    return tokens
+
+def keep_single_space_words(tokens: List[str]) -> List[str]:
+    tokens = [re.sub(r'\s+', ' ', token) for token in tokens]
     return tokens
 
 if __name__ == "__main__":
@@ -184,10 +188,11 @@ if __name__ == "__main__":
 
     detected_lang = lang_detect(text)
     tokens = word_tokenize(text, detected_lang)
+    tokens = remove_empty_words(tokens)
     tokens = remove_punctuation(tokens, detected_lang)
     tokens = remove_stop_words(tokens, detected_lang)
     tokens = strim_words(tokens)
-    tokens = remove_empty_words(tokens)
+    tokens = keep_single_space_words(tokens)
 
     print(tokens)
 
