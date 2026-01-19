@@ -120,6 +120,7 @@ def word_tokenize(text: str, lang: str) -> List[str]:
     tokens = []
     pattern = r'\b[A-Z][\w]*(?:\s+[A-Z][\w]*)+'
     processed_text = re.sub(pattern, lambda m: m.group(0).replace(' ', '_'), text)
+    processed_text = re.sub(r'\s*-\s*', '-', processed_text)
     if lang == 'en':
         tokenizer = RegexpTokenizer(r'\w+(?:-\w+)*')
         tokens = tokenizer.tokenize(processed_text)
@@ -147,10 +148,14 @@ def remove_punctuation(tokens: List[str], lang: str) -> List[str]:
         return tokens
 
 def remove_stop_words(tokens: List[str], lang: str) -> List[str]:
-    if lang == 'en':
-        tokens = [word for word in tokens if word not in EN_STOPWORDS]
-    elif lang == 'vi':
-        tokens = [word for word in tokens if word not in VI_STOPWORDS]
+    match lang:
+        case 'en':
+            tokens = [word for word in tokens if word not in EN_STOPWORDS]
+        case 'vi':
+            tokens = [word for word in tokens if word not in VI_STOPWORDS]
+        case _:
+            all_stopwords = EN_STOPWORDS | VI_STOPWORDS
+            tokens = [word for word in tokens if word not in all_stopwords]
 
     return tokens
 
@@ -159,10 +164,22 @@ def stem_words(tokens: List[str]) -> List[str]:
     stemming_words = [ps.stem(word) for word in tokens]
     return stemming_words
 
-def lemma_words(tokens: List[str], wordnet_pos: str='') -> List[str]:
+def lemma_words(tokens: List[str], wordnet_pos: str='n') -> List[str]:
     lemmatizer = WordNetLemmatizer()
     lemmatized_words = [lemmatizer.lemmatize(word, pos=wordnet_pos) for word in tokens]
     return lemmatized_words
+
+def strim_words(tokens: List[str]) -> List[str]:
+    tokens = [token.strip() for token in tokens]
+    return tokens
+
+def remove_empty_words(tokens: List[str]) -> List[str]:
+    tokens = [token for token in tokens if token.strip()]
+    return tokens
+
+def keep_single_space_words(tokens: List[str]) -> List[str]:
+    tokens = [re.sub(r'\s+', ' ', token) for token in tokens]
+    return tokens
 
 if __name__ == "__main__":
 
@@ -175,8 +192,11 @@ if __name__ == "__main__":
 
     detected_lang = lang_detect(text)
     tokens = word_tokenize(text, detected_lang)
+    tokens = remove_empty_words(tokens)
     tokens = remove_punctuation(tokens, detected_lang)
     tokens = remove_stop_words(tokens, detected_lang)
+    tokens = strim_words(tokens)
+    tokens = keep_single_space_words(tokens)
 
     print(tokens)
 
