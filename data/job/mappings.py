@@ -273,7 +273,6 @@ ERP_CRM_KEYWORDS = [
     "abap",
 ]
 
-# --- Keyword Dictionaries (Moved from etl_linkedin_script.py) ---
 PROGRAMMING_LANGUAGES_MAP = {
     "Python": ["python", "py"],
     "JavaScript": ["javascript", "js", "ecmascript", "es6", "es5"],
